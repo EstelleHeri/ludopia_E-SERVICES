@@ -1,4 +1,4 @@
-# Projet Platine E-SERVICES 2019 - 2020
+# Ludopia : Projet Platine E-SERVICES 2019 - 2020
 
 ## Membres
 
@@ -8,5 +8,5 @@
 
 ## Informations
 
-Pour plus d'informations sur le projet, vous trouverez notre site web : 
+Pour plus d'informations sur le projet, vous trouverez cela sur notre site web : 
 https://ludothequenews.wordpress.com
