@@ -2,7 +2,7 @@
 
 ## Membres
 
-- Estelle HÃ©ripret
+- Estelle Héripret
 - Alexandre Barbillon
 - Pierre Patte
 
